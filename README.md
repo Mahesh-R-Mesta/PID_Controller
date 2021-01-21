@@ -10,3 +10,10 @@ Input to the program:
 1)momentum of inertia of rocket.
 2)Mass and trust of rocket.
 3)proportional (Kp), Integration (Ki), differentiation (Kd) constants.
+<Requirement>
+  Python IDLE
+  Modules
+    > Math
+    > turtle
+    > matplotlib
+  
