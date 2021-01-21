@@ -13,7 +13,7 @@ Input to the program:
 <Requirement>
   Python IDLE
   Modules
-    > Math
-    > turtle
-    > matplotlib
+    1.Math
+    2.turtle
+    3.matplotlib
   
