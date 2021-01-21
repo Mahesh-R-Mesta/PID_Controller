@@ -1,6 +1,12 @@
-# PID_Controller
-This PID contoller programming is used for controlling small scale rocket orientation.
-momentum of inertia of rocket. 
+# PID_Controller_Algorithm
+This is a simulation program.
 PID uses proportional, Integration, differentiation equation.
-It consist coefficients Kp , Ki, Kd and they must be tunned in order to work and it changes with change in MOF of rocket .
-PID controllers are used in various feild to automatatic controlling, such as temperature contolling in chemical industries .
+Each term associated with constants Kp, Ki, Kd.
+A PID algorithm is used in industrial control applications to regulate temperature, flow, pressure, speed and other process variables.
+But In this program it simulates orientation controlling of small scale rocket using PID control algorithm.
+for proper operation PID must be tune its constants Kp, Ki, Kd.   
+once pid constants tunned, then orientation of rocket will stablize.  
+Input to the program:
+1)momentum of inertia of rocket.
+2)Mass and trust of rocket.
+3)proportional (Kp), Integration (Ki), differentiation (Kd) constants.
